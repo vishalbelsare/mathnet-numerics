@@ -14,7 +14,7 @@ steps:
   displayName: 'Use .NET Core SDK'
   inputs:
     packageType: sdk
-    version: 2.2.106
+    version: 3.0.100
     installationPath: $(Agent.ToolsDirectory)/dotnet
 - script: build.cmd test
   displayName: 'Build & Test'
