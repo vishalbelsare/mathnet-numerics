@@ -1,5 +1,6 @@
 <Project>
     <PropertyGroup>
+        <NetStandardImplicitPackageVersion>2.0.3</NetStandardImplicitPackageVersion>
         <Company>Math.NET Project</Company>
         <Product>Math.NET Numerics</Product>
         <Authors>Christoph Ruegg, Marcus Cuda, Jurgen Van Gael</Authors>
